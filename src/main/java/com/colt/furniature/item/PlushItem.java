@@ -25,7 +25,7 @@ public class PlushItem extends BlockItem {
         consumer.accept(new IItemRenderProperties() {
             @Override
             public BlockEntityWithoutLevelRenderer getItemStackRenderer() {
-                Furniature.LOGGER.info("But does it get here?");
+                //Furniature.LOGGER.info("But does it get here?");
                 return plushItemRender;
             }
         });

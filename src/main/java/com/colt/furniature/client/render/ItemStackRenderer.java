@@ -46,7 +46,7 @@ public class ItemStackRenderer extends BlockEntityWithoutLevelRenderer {
     @Override
     public void renderByItem(ItemStack stack, ItemTransforms.TransformType transformType, PoseStack matrixStackIn, MultiBufferSource bufferIn, int combinedLightIn, int combinedOverlayIn) {
         if (plushModels == null) init();
-        Furniature.LOGGER.info(plushModels + " :Render By Item");
+        //Furniature.LOGGER.info(plushModels + " :Render By Item");
         Item[] items = {FurniatureItems.HEATH_PLUSH.get(), FurniatureItems.PLAYER_PLUSH.get()};
         for (Item item : items) {
             if (item instanceof BlockItem) {
