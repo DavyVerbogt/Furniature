@@ -1,0 +1,7 @@
+{
+  "parent": "coltfurniature:block/carpet//parent/carpet_on_stairs",
+  "textures": {
+    "0": "minecraft:block/pink_wool",
+    "particle": "minecraft:block/pink_wool"
+  }
+}

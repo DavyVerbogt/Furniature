@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "coltfurniature:block/table_saw"
+    },
+    "facing=east": {
+      "model": "coltfurniature:block/table_saw",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "coltfurniature:block/table_saw",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "coltfurniature:block/table_saw",
+      "y": 270
+    }
+  }
+}

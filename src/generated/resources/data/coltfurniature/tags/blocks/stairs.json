@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "coltfurniature:stripped_oak_stairs",
+    "coltfurniature:stripped_spruce_stairs",
+    "coltfurniature:stripped_birch_stairs",
+    "coltfurniature:stripped_jungle_stairs",
+    "coltfurniature:stripped_dark_oak_stairs",
+    "coltfurniature:stripped_acacia_stairs",
+    "coltfurniature:stripped_warped_stairs",
+    "coltfurniature:stripped_crimson_stairs"
+  ]
+}

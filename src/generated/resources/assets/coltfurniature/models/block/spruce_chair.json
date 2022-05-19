@@ -1,0 +1,9 @@
+{
+  "parent": "coltfurniature:block/chair/chair",
+  "textures": {
+    "0": "minecraft:block/stripped_spruce_log",
+    "2": "minecraft:block/spruce_log",
+    "particle ": "minecraft:block/stripped_spruce_log",
+    "3": "minecraft:block/spruce_trapdoor"
+  }
+}

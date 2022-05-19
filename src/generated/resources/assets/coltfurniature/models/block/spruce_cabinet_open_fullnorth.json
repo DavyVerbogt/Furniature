@@ -1,0 +1,9 @@
+{
+  "parent": "coltfurniature:block/cabinet/cabinet_open_full_north",
+  "textures": {
+    "0": "minecraft:block/spruce_log",
+    "2": "minecraft:block/stripped_spruce_log",
+    "particle ": "minecraft:block/spruce_log",
+    "1": "minecraft:block/spruce_planks"
+  }
+}

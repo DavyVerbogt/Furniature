@@ -1,0 +1,9 @@
+{
+  "parent": "coltfurniature:block/cabinet/cabinet_full_north",
+  "textures": {
+    "0": "minecraft:block/jungle_log",
+    "2": "minecraft:block/stripped_jungle_log",
+    "particle ": "minecraft:block/jungle_log",
+    "1": "minecraft:block/jungle_planks"
+  }
+}

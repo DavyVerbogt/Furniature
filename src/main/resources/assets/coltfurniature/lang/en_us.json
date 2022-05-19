@@ -1,0 +1,13 @@
+{
+    "itemGroup.furniature": "Furniature",
+
+    "container.sewing_table": "Furniture Crafting",
+    "sewing.sewing_machine": "Table Saw",
+
+    "gui.button.coltfurniature.enable_filters": "Enable All Filters",
+    "gui.button.coltfurniature.disable_filters": "Disable All Filters",
+    "gui.tag_filter.coltfurniature.blocks": "Sewing Machine",
+
+    "block.coltfurniature.table_saw": "Table Saw"
+
+}

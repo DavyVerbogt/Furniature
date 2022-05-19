@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "facing=north": {
+            "model": "coltfurniature:block/carpet/pink_carpet_on_stairs"
+        },
+        "facing=east": {
+            "model": "coltfurniature:block/carpet/pink_carpet_on_stairs",
+            "y": 90
+        },
+        "facing=south": {
+            "model": "coltfurniature:block/carpet/pink_carpet_on_stairs",
+            "y": 180
+        },
+        "facing=west": {
+            "model": "coltfurniature:block/carpet/pink_carpet_on_stairs",
+            "y": 270
+        }
+    }
+}

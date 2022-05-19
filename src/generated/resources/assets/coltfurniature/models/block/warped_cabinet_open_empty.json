@@ -1,0 +1,9 @@
+{
+  "parent": "coltfurniature:block/cabinet/cabinet_open_empty",
+  "textures": {
+    "0": "minecraft:block/warped_stem",
+    "2": "minecraft:block/stripped_warped_stem",
+    "particle ": "minecraft:block/warped_stem",
+    "1": "minecraft:block/warped_planks"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "variants": {
+    "facing=north,full=false,open=false,waterlogged=false": {
+      "model": "coltfurniature:block/birch_cabinet_empty"
+    },
+    "facing=south,full=false,open=false,waterlogged=false": {
+      "model": "coltfurniature:block/birch_cabinet_empty",
+      "y": 180
+    },
+    "facing=west,full=false,open=false,waterlogged=false": {
+      "model": "coltfurniature:block/birch_cabinet_empty",
+      "y": 270
+    },
+    "facing=east,full=false,open=false,waterlogged=false": {
+      "model": "coltfurniature:block/birch_cabinet_empty",
+      "y": 90
+    },
+    "facing=north,full=true,open=false,waterlogged=false": {
+      "model": "coltfurniature:block/birch_cabinet_fullnorth"
+    },
+    "facing=south,full=true,open=false,waterlogged=false": {
+      "model": "coltfurniature:block/birch_cabinet_fullsouth",
+      "y": 180
+    },
+    "facing=west,full=true,open=false,waterlogged=false": {
+      "model": "coltfurniature:block/birch_cabinet_fullwest",
+      "y": 270
+    },
+    "facing=east,full=true,open=false,waterlogged=false": {
+      "model": "coltfurniature:block/birch_cabinet_fulleast",
+      "y": 90
+    },
+    "facing=north,full=false,open=true,waterlogged=false": {
+      "model": "coltfurniature:block/birch_cabinet_open_empty"
+    },
+    "facing=south,full=false,open=true,waterlogged=false": {
+      "model": "coltfurniature:block/birch_cabinet_open_empty",
+      "y": 180
+    },
+    "facing=west,full=false,open=true,waterlogged=false": {
+      "model": "coltfurniature:block/birch_cabinet_open_empty",
+      "y": 270
+    },
+    "facing=east,full=false,open=true,waterlogged=false": {
+      "model": "coltfurniature:block/birch_cabinet_open_empty",
+      "y": 90
+    },
+    "facing=north,full=true,open=true,waterlogged=false": {
+      "model": "coltfurniature:block/birch_cabinet_open_fullnorth"
+    },
+    "facing=south,full=true,open=true,waterlogged=false": {
+      "model": "coltfurniature:block/birch_cabinet_open_fullsouth",
+      "y": 180
+    },
+    "facing=west,full=true,open=true,waterlogged=false": {
+      "model": "coltfurniature:block/birch_cabinet_open_fullwest",
+      "y": 270
+    },
+    "facing=east,full=true,open=true,waterlogged=false": {
+      "model": "coltfurniature:block/birch_cabinet_open_fulleast",
+      "y": 90
+    },
+    "facing=north,full=false,open=false,waterlogged=true": {
+      "model": "coltfurniature:block/birch_cabinet_empty"
+    },
+    "facing=south,full=false,open=false,waterlogged=true": {
+      "model": "coltfurniature:block/birch_cabinet_empty",
+      "y": 180
+    },
+    "facing=west,full=false,open=false,waterlogged=true": {
+      "model": "coltfurniature:block/birch_cabinet_empty",
+      "y": 270
+    },
+    "facing=east,full=false,open=false,waterlogged=true": {
+      "model": "coltfurniature:block/birch_cabinet_empty",
+      "y": 90
+    },
+    "facing=north,full=true,open=false,waterlogged=true": {
+      "model": "coltfurniature:block/birch_cabinet_fullnorth"
+    },
+    "facing=south,full=true,open=false,waterlogged=true": {
+      "model": "coltfurniature:block/birch_cabinet_fullsouth",
+      "y": 180
+    },
+    "facing=west,full=true,open=false,waterlogged=true": {
+      "model": "coltfurniature:block/birch_cabinet_fullwest",
+      "y": 270
+    },
+    "facing=east,full=true,open=false,waterlogged=true": {
+      "model": "coltfurniature:block/birch_cabinet_fulleast",
+      "y": 90
+    },
+    "facing=north,full=false,open=true,waterlogged=true": {
+      "model": "coltfurniature:block/birch_cabinet_open_empty"
+    },
+    "facing=south,full=false,open=true,waterlogged=true": {
+      "model": "coltfurniature:block/birch_cabinet_open_empty",
+      "y": 180
+    },
+    "facing=west,full=false,open=true,waterlogged=true": {
+      "model": "coltfurniature:block/birch_cabinet_open_empty",
+      "y": 270
+    },
+    "facing=east,full=false,open=true,waterlogged=true": {
+      "model": "coltfurniature:block/birch_cabinet_open_empty",
+      "y": 90
+    },
+    "facing=north,full=true,open=true,waterlogged=true": {
+      "model": "coltfurniature:block/birch_cabinet_open_fullnorth"
+    },
+    "facing=south,full=true,open=true,waterlogged=true": {
+      "model": "coltfurniature:block/birch_cabinet_open_fullsouth",
+      "y": 180
+    },
+    "facing=west,full=true,open=true,waterlogged=true": {
+      "model": "coltfurniature:block/birch_cabinet_open_fullwest",
+      "y": 270
+    },
+    "facing=east,full=true,open=true,waterlogged=true": {
+      "model": "coltfurniature:block/birch_cabinet_open_fulleast",
+      "y": 90
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "coltfurniature:oak_cabinet",
+    "coltfurniature:spruce_cabinet",
+    "coltfurniature:birch_cabinet",
+    "coltfurniature:jungle_cabinet",
+    "coltfurniature:dark_oak_cabinet",
+    "coltfurniature:acacia_cabinet",
+    "coltfurniature:warped_cabinet",
+    "coltfurniature:crimson_cabinet"
+  ]
+}

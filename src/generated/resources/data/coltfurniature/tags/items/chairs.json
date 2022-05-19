@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "coltfurniature:oak_chair",
+    "coltfurniature:spruce_chair",
+    "coltfurniature:birch_chair",
+    "coltfurniature:jungle_chair",
+    "coltfurniature:dark_oak_chair",
+    "coltfurniature:acacia_chair",
+    "coltfurniature:warped_chair",
+    "coltfurniature:crimson_chair"
+  ]
+}

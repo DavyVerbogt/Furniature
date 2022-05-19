@@ -1,0 +1,9 @@
+{
+  "parent": "coltfurniature:block/cabinet/cabinet_open_full_west",
+  "textures": {
+    "0": "minecraft:block/oak_log",
+    "2": "minecraft:block/stripped_oak_log",
+    "particle ": "minecraft:block/oak_log",
+    "1": "minecraft:block/oak_planks"
+  }
+}

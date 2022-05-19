@@ -1,0 +1,9 @@
+{
+  "parent": "coltfurniature:block/chair/chair",
+  "textures": {
+    "0": "minecraft:block/stripped_jungle_log",
+    "2": "minecraft:block/jungle_log",
+    "particle ": "minecraft:block/stripped_jungle_log",
+    "3": "minecraft:block/jungle_trapdoor"
+  }
+}
