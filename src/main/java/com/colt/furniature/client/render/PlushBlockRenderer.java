@@ -35,7 +35,7 @@ import java.util.Map;
 @OnlyIn(Dist.CLIENT)
 public class PlushBlockRenderer implements BlockEntityRenderer<PlushBluckEntity> {
 
-    private final Map<Plush.Type, PlushModelBase> model;
+    public final Map<Plush.Type, PlushModelBase> model;
 
     private static final Map<Plush.Type, ResourceLocation> SKIN_BY_TYPE = Util.make(Maps.newHashMap(), (p_112552_) -> {
         p_112552_.put(Plush.Types.HEATH, new ResourceLocation(Furniature.MOD_ID, "textures/entity/plush/heath_plush.png"));
@@ -64,8 +64,12 @@ public class PlushBlockRenderer implements BlockEntityRenderer<PlushBluckEntity>
 
     public static void renderPlush(@Nullable Direction direction, float YRotation, float v, PoseStack poseStack, MultiBufferSource bufferSource, int p_173669_, PlushModelBase plushModelBase, RenderType renderType) {
         poseStack.pushPose();
-        poseStack.translate(0.5D, 0.0D, 0.5D);
-
+        if (direction == null) {
+            poseStack.translate(0.5D, 0.0D, 0.5D);
+        } else {
+            float f = 0.25F;
+            poseStack.translate((double)(0.5F - (float)direction.getStepX() * 0.25F), 0.25D, (double)(0.5F - (float)direction.getStepZ() * 0.25F));
+        }
         poseStack.scale(-1.0F, -1.0F, 1.0F);
         VertexConsumer vertexconsumer = bufferSource.getBuffer(renderType);
         plushModelBase.setupAnim(YRotation);
